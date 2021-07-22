@@ -1,10 +1,10 @@
 # Homework-01
 
 * Name of company	
-- Betterment
+  Betterment
 
 * When was the company incorporated?
-- 2008
+  2008
 
 * Who are the founders of the company?
 - Jon Stein
